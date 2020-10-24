@@ -6,3 +6,4 @@ Code | Linear Regression | Feature Scaling | Plots
 - Gradient descent
 - Plots: contour , scatter, surface
 - Functions: linspace, logspace
+- Normal Equation
